@@ -1,5 +1,5 @@
 # social_analytics-PlotBot
-see the Twitter bot at @iPlotBot [https://twitter.com/iPlotBot](https://twitter.com/iPlotBot) 
+See the Twitter bot at @iPlotBot [https://twitter.com/iPlotBot](https://twitter.com/iPlotBot) 
 ```
 # dependencies 
 import pandas as pd 
