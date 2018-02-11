@@ -1,4 +1,4 @@
-# social_analytics-PlotBot
+# iPlotBot
 See the Twitter bot at @iPlotBot [https://twitter.com/iPlotBot](https://twitter.com/iPlotBot) 
 
 A Twitter bot that receives tweets via mentions and in turn performs sentiment analysis on the most recent twitter account specified in the mention. The Twitter bot then tweets a visualized sentiment analysis of the Twitter account's most recent tweets. The bot scans its account every five minutes for mentions and pulls 500 of the most recent tweets to analyze for each incoming request.
